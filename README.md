@@ -19,14 +19,14 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 | Semana | Tópico Principal | Status |
 | :--- | :--- | :--- |
-| [Semana 01](./semana-01) | Fundamentos e Ética na Engenharia | ✅ Concluído |
-| [Semana 02](./semana-02) | O Dilema da IA Contratadora (LGPD e Ética) | ✅ Concluído |
-| [Semana 03](./semana-03) | Operação Resgate Chaos-IT (Modelo Espiral e CMMI) | ✅ Concluído |
-| [Semana 04](./semana-04) | Metodologias Ágeis | ⏳ Em breve |
-| [Semana 05](./semana-05) | Histórias de Usuário e Método CARD | ✅ Concluído |
-| [Semana 06](./semana-06) | Engenharia de Requisitos e Entrevista com Cliente | ✅ Concluído |
-| [Semana 07](./semana-07) | Especificação e Validação de Requisitos | ✅ Concluído |
-| [Semana 08](./semana-08) | Documento de Requisitos e Validação Final | ✅ Concluído |
+| [Semana 01](./SEMANA-01) | Fundamentos e Ética na Engenharia | ✅ Concluído |
+| [Semana 02](./SEMANA-02) | O Dilema da IA Contratadora (LGPD e Ética) | ✅ Concluído |
+| [Semana 03](./SEMANA-03) | Operação Resgate Chaos-IT (Modelo Espiral e CMMI) | ✅ Concluído |
+| [Semana 04](./SEMANA-04) | Metodologias Ágeis | ⏳ Em breve |
+| [Semana 05](./SEMANA-05) | Histórias de Usuário e Método CARD | ✅ Concluído |
+| [Semana 06](./SEMANA-06) | Engenharia de Requisitos e Entrevista com Cliente | ✅ Concluído |
+| [Semana 07](./SEMANA-07) | Especificação e Validação de Requisitos | ✅ Concluído |
+| [Semana 08](./SEMANA-08) | Documento de Requisitos e Validação Final | ✅ Concluído |
 
 ---
 
