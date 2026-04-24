@@ -7,14 +7,11 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 ---
 
-## 🛠️ Minha Stack / Tecnologias
-*(Liste aqui as linguagens, ferramentas ou frameworks que você já conhece ou está aprendendo)*
-- HTML5, CSS3, JavaScript
-- [Outra tecnologia]
-- [Outra tecnologia]
-
----
-
+**Tecnologias e Competências:**
+* **Linguagens:** PHP, TypeScript, JavaScript (Node.js).
+* **Frontend:** React, React Native.
+* **Backend & DB:** MySQL, PostgreSQL, APIs REST.
+* **Expertise:** SEO para Marketplaces, Gestão de E-commerce e Automação de Processos.
 ## 📂 Índice de Entregas Semanais
 
 | Semana | Tópico Principal | Status |
